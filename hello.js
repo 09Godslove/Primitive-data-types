@@ -1,4 +1,4 @@
-helloMessage = 'Hello'
+let helloMessage = 'Hello'
 console.log(helloMessage)
 helloMessage = helloMessage + ' from JavaScript'
 console.log(helloMessage)
